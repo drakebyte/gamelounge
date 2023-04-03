@@ -3,8 +3,6 @@
  * The single template file
  */
 
-wp_head();
-
 get_header(); ?>
 
 <div id="content" class="container">

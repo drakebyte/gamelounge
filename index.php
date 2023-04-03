@@ -8,11 +8,7 @@
  * E.g., it puts together the home page when no home.php file exists.
  */
 
-wp_head();
-
 get_header(); ?>
-
-
 
 <div id="content" class="container">
 	<div class="row">
